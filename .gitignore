@@ -1,0 +1,6 @@
+.env
+_work/
+bin/
+externals/
+*.tar.gz
+*.sh
