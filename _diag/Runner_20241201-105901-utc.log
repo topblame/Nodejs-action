@@ -1,0 +1,279 @@
+[2024-12-01 10:59:01Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2024-12-01 10:59:01Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:01Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:01Z INFO HostContext] Well known config file 'Credentials': '/home/ec2-user/git-graph/actions-runner/.credentials'
+[2024-12-01 10:59:01Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:01Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:01Z INFO HostContext] Well known config file 'Runner': '/home/ec2-user/git-graph/actions-runner/.runner'
+[2024-12-01 10:59:02Z INFO Listener] Runner is built for Linux (X64) - linux-x64.
+[2024-12-01 10:59:02Z INFO Listener] RuntimeInformation: Linux 6.1.115-126.197.amzn2023.x86_64 #1 SMP PREEMPT_DYNAMIC Tue Nov  5 17:36:57 UTC 2024.
+[2024-12-01 10:59:02Z INFO Listener] Version: 2.320.0
+[2024-12-01 10:59:02Z INFO Listener] Commit: 78f21670b4a58aff19b5189207f54eb2bee324d1
+[2024-12-01 10:59:02Z INFO Listener] Culture: 
+[2024-12-01 10:59:02Z INFO Listener] UI Culture: 
+[2024-12-01 10:59:02Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:02Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:02Z INFO Listener] Validating directory permissions for: '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:02Z INFO CommandLineParser] Parse
+[2024-12-01 10:59:02Z INFO CommandLineParser] Parsing 3 args
+[2024-12-01 10:59:02Z INFO CommandLineParser] parsing argument
+[2024-12-01 10:59:02Z INFO CommandLineParser] HasArgs: False
+[2024-12-01 10:59:02Z INFO CommandLineParser] Adding Command: run
+[2024-12-01 10:59:02Z INFO CommandLineParser] parsing argument
+[2024-12-01 10:59:02Z INFO CommandLineParser] HasArgs: True
+[2024-12-01 10:59:02Z INFO CommandLineParser] arg: startuptype
+[2024-12-01 10:59:02Z INFO CommandLineParser] parsing argument
+[2024-12-01 10:59:02Z INFO CommandLineParser] HasArgs: True
+[2024-12-01 10:59:02Z INFO CommandLineParser] Adding option 'startuptype': 'service'
+[2024-12-01 10:59:02Z INFO Listener] Arguments parsed
+[2024-12-01 10:59:02Z INFO Runner] ExecuteCommand
+[2024-12-01 10:59:02Z INFO ConfigurationStore] currentAssemblyLocation: /home/ec2-user/git-graph/actions-runner/bin/Runner.Listener.dll
+[2024-12-01 10:59:02Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:02Z INFO ConfigurationStore] binPath: /home/ec2-user/git-graph/actions-runner/bin
+[2024-12-01 10:59:02Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:02Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:02Z INFO ConfigurationStore] RootFolder: /home/ec2-user/git-graph/actions-runner
+[2024-12-01 10:59:02Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:02Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:02Z INFO HostContext] Well known config file 'Runner': '/home/ec2-user/git-graph/actions-runner/.runner'
+[2024-12-01 10:59:02Z INFO ConfigurationStore] ConfigFilePath: /home/ec2-user/git-graph/actions-runner/.runner
+[2024-12-01 10:59:02Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:02Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:02Z INFO HostContext] Well known config file 'Credentials': '/home/ec2-user/git-graph/actions-runner/.credentials'
+[2024-12-01 10:59:02Z INFO ConfigurationStore] CredFilePath: /home/ec2-user/git-graph/actions-runner/.credentials
+[2024-12-01 10:59:02Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:02Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:02Z INFO HostContext] Well known config file 'MigratedCredentials': '/home/ec2-user/git-graph/actions-runner/.credentials_migrated'
+[2024-12-01 10:59:02Z INFO ConfigurationStore] MigratedCredFilePath: /home/ec2-user/git-graph/actions-runner/.credentials_migrated
+[2024-12-01 10:59:02Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:02Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:02Z INFO HostContext] Well known config file 'Service': '/home/ec2-user/git-graph/actions-runner/.service'
+[2024-12-01 10:59:02Z INFO ConfigurationStore] ServiceConfigFilePath: /home/ec2-user/git-graph/actions-runner/.service
+[2024-12-01 10:59:02Z INFO CommandSettings] Flag 'help': 'False'
+[2024-12-01 10:59:02Z INFO CommandSettings] Flag 'version': 'False'
+[2024-12-01 10:59:02Z INFO CommandSettings] Flag 'commit': 'False'
+[2024-12-01 10:59:02Z INFO CommandSettings] Flag 'check': 'False'
+[2024-12-01 10:59:02Z INFO CommandSettings] Command 'configure': 'False'
+[2024-12-01 10:59:02Z INFO CommandSettings] Command 'remove': 'False'
+[2024-12-01 10:59:02Z INFO CommandSettings] Command 'warmup': 'False'
+[2024-12-01 10:59:02Z INFO ConfigurationManager] LoadSettings
+[2024-12-01 10:59:02Z INFO ConfigurationStore] IsConfigured()
+[2024-12-01 10:59:02Z INFO ConfigurationStore] IsConfigured: True
+[2024-12-01 10:59:02Z INFO ConfigurationManager] Is configured: True
+[2024-12-01 10:59:02Z INFO ConfigurationStore] Read setting file: 303 chars
+[2024-12-01 10:59:02Z INFO ConfigurationManager] Settings Loaded
+[2024-12-01 10:59:02Z INFO ConfigurationStore] IsServiceConfigured()
+[2024-12-01 10:59:02Z INFO ConfigurationStore] IsServiceConfigured: True
+[2024-12-01 10:59:02Z INFO CommandSettings] Command 'run': 'True'
+[2024-12-01 10:59:02Z INFO ConfigurationStore] IsConfigured()
+[2024-12-01 10:59:02Z INFO ConfigurationStore] IsConfigured: True
+[2024-12-01 10:59:02Z INFO ConfigurationManager] Is configured: True
+[2024-12-01 10:59:02Z INFO Runner] Set runner startup type - Service
+[2024-12-01 10:59:02Z INFO CommandSettings] Flag 'once': 'False'
+[2024-12-01 10:59:02Z INFO CommandSettings] Flag 'once': 'False'
+[2024-12-01 10:59:02Z INFO Runner] RunAsync
+[2024-12-01 10:59:02Z INFO ConfigurationManager] LoadSettings
+[2024-12-01 10:59:02Z INFO ConfigurationStore] IsConfigured()
+[2024-12-01 10:59:02Z INFO ConfigurationStore] IsConfigured: True
+[2024-12-01 10:59:02Z INFO ConfigurationManager] Is configured: True
+[2024-12-01 10:59:02Z INFO ConfigurationManager] Settings Loaded
+[2024-12-01 10:59:02Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "ip-172-31-14-65",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus8.actions.githubusercontent.com/vzadN5oJQuwo3CBIrwP5txV4AijFfh29RFPL2R3bMCEDU3opXm/",
+  "GitHubUrl": "https://github.com/topblame/Nodejs-action",
+  "WorkFolder": "_work"
+}
+[2024-12-01 10:59:02Z INFO MessageListener] Loading Credentials
+[2024-12-01 10:59:02Z INFO ConfigurationStore] HasCredentials()
+[2024-12-01 10:59:02Z INFO ConfigurationStore] stored True
+[2024-12-01 10:59:02Z INFO CredentialManager] GetCredentialProvider
+[2024-12-01 10:59:02Z INFO CredentialManager] Creating type OAuth
+[2024-12-01 10:59:02Z INFO CredentialManager] Creating credential type: OAuth
+[2024-12-01 10:59:02Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:02Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:02Z INFO HostContext] Well known config file 'RSACredentials': '/home/ec2-user/git-graph/actions-runner/.credentials_rsaparams'
+[2024-12-01 10:59:02Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ec2-user/git-graph/actions-runner/.credentials_rsaparams
+[2024-12-01 10:59:02Z INFO MessageListener] Attempt to create session.
+[2024-12-01 10:59:02Z INFO MessageListener] Connecting to the Runner Server...
+[2024-12-01 10:59:02Z INFO RunnerServer] EstablishVssConnection
+[2024-12-01 10:59:02Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-12-01 10:59:02Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-12-01 10:59:02Z INFO RunnerServer] EstablishVssConnection
+[2024-12-01 10:59:02Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-12-01 10:59:02Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-12-01 10:59:02Z INFO RunnerServer] EstablishVssConnection
+[2024-12-01 10:59:02Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-12-01 10:59:02Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-12-01 10:59:03Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-12-01 10:59:03Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-12-01 10:59:03Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-12-01 10:59:04Z INFO MessageListener] VssConnection created
+[2024-12-01 10:59:04Z INFO Terminal] WRITE LINE: 
+[2024-12-01 10:59:04Z INFO Terminal] WRITE LINE: 
+[2024-12-01 10:59:05Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ec2-user/git-graph/actions-runner/.credentials_rsaparams
+[2024-12-01 10:59:05Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ec2-user/git-graph/actions-runner/.credentials_rsaparams
+[2024-12-01 10:59:05Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-12-01 10:59:06Z INFO MessageListener] Session created.
+[2024-12-01 10:59:06Z INFO Terminal] WRITE LINE: Current runner version: '2.320.0'
+[2024-12-01 10:59:06Z INFO Terminal] WRITE LINE: 2024-12-01 10:59:06Z: Listening for Jobs
+[2024-12-01 10:59:06Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2024-12-01 10:59:06Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-12-01 10:59:06Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ec2-user/git-graph/actions-runner/.credentials_rsaparams
+[2024-12-01 10:59:07Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-12-01 10:59:07Z INFO MessageListener] Message '0' received from session '55dd26bc-06e4-4032-a41a-292ca0df42df'.
+[2024-12-01 10:59:07Z INFO Runner] Refresh message received, kick-off selfupdate background process.
+[2024-12-01 10:59:08Z INFO SelfUpdater] Version '2.321.0' of 'agent' package available in server.
+[2024-12-01 10:59:08Z INFO SelfUpdater] Current running runner version is 2.320.0
+[2024-12-01 10:59:08Z INFO SelfUpdater] An update is available.
+[2024-12-01 10:59:08Z INFO Terminal] WRITE LINE: Runner update in progress, do not shutdown runner.
+[2024-12-01 10:59:08Z INFO SelfUpdater] RunnerPlatform: linux-x64
+[2024-12-01 10:59:08Z INFO Terminal] WRITE LINE: Downloading 2.321.0 runner
+[2024-12-01 10:59:08Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:08Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:08Z INFO HostContext] Well known directory 'Work': '/home/ec2-user/git-graph/actions-runner/_work'
+[2024-12-01 10:59:08Z INFO SelfUpdater] Attempt 1: save latest runner into /home/ec2-user/git-graph/actions-runner/_work/_update/runner1.tar.gz.
+[2024-12-01 10:59:08Z INFO SelfUpdater] Download runner: begin download
+[2024-12-01 10:59:08Z INFO SelfUpdater] Downloading https://github.com/actions/runner/releases/download/v2.321.0/actions-runner-linux-x64-2.321.0.tar.gz
+[2024-12-01 10:59:09Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-12-01 10:59:10Z INFO SelfUpdater] Download runner: finished download
+[2024-12-01 10:59:11Z INFO SelfUpdater] Validated Runner Hash matches /home/ec2-user/git-graph/actions-runner/_work/_update/runner1.tar.gz : ba46ba7ce3a4d7236b16fbe44419fb453bc08f866b24f04d549ec89f1722a29e
+[2024-12-01 10:59:11Z INFO SelfUpdater] Which2: 'tar'
+[2024-12-01 10:59:11Z INFO SelfUpdater] Location: '/usr/bin/tar'
+[2024-12-01 10:59:11Z INFO ProcessInvokerWrapper] Starting process:
+[2024-12-01 10:59:11Z INFO ProcessInvokerWrapper]   File name: '/usr/bin/tar'
+[2024-12-01 10:59:11Z INFO ProcessInvokerWrapper]   Arguments: '-xzf "/home/ec2-user/git-graph/actions-runner/_work/_update/runner1.tar.gz"'
+[2024-12-01 10:59:11Z INFO ProcessInvokerWrapper]   Working directory: '/home/ec2-user/git-graph/actions-runner/_work/_update'
+[2024-12-01 10:59:11Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2024-12-01 10:59:11Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2024-12-01 10:59:11Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2024-12-01 10:59:11Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2024-12-01 10:59:11Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2024-12-01 10:59:11Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2024-12-01 10:59:11Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2024-12-01 10:59:11Z INFO ProcessInvokerWrapper] Updated oom_score_adj to 500 for PID: 6016.
+[2024-12-01 10:59:11Z INFO ProcessInvokerWrapper] Process started with process id 6016, waiting for process exit.
+[2024-12-01 10:59:15Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2024-12-01 10:59:15Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2024-12-01 10:59:15Z INFO ProcessInvokerWrapper] Finished process 6016 with exit code 0, and elapsed time 00:00:03.9090930.
+[2024-12-01 10:59:15Z INFO SelfUpdater] Finished getting latest runner package at: /home/ec2-user/git-graph/actions-runner/_work/_update.
+[2024-12-01 10:59:15Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:15Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:15Z INFO SelfUpdater] Copy /home/ec2-user/git-graph/actions-runner/_work/_update/bin to /home/ec2-user/git-graph/actions-runner/bin.2.321.0.
+[2024-12-01 10:59:16Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:16Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:16Z INFO SelfUpdater] Copy /home/ec2-user/git-graph/actions-runner/_work/_update/externals to /home/ec2-user/git-graph/actions-runner/externals.2.321.0.
+[2024-12-01 10:59:23Z INFO SelfUpdater] Copy any remaining .sh/.cmd files into runner root.
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO SelfUpdater] Copy /home/ec2-user/git-graph/actions-runner/_work/_update/safe_sleep.sh to /home/ec2-user/git-graph/actions-runner/safe_sleep.sh
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO SelfUpdater] Copy /home/ec2-user/git-graph/actions-runner/_work/_update/env.sh to /home/ec2-user/git-graph/actions-runner/env.sh
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO SelfUpdater] Copy /home/ec2-user/git-graph/actions-runner/_work/_update/config.sh to /home/ec2-user/git-graph/actions-runner/config.sh
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO SelfUpdater] Copy /home/ec2-user/git-graph/actions-runner/_work/_update/run-helper.sh.template to /home/ec2-user/git-graph/actions-runner/run-helper.sh.template
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO SelfUpdater] Copy /home/ec2-user/git-graph/actions-runner/_work/_update/run.sh to /home/ec2-user/git-graph/actions-runner/run.sh
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO SelfUpdater] Copy /home/ec2-user/git-graph/actions-runner/_work/_update/run-helper.cmd.template to /home/ec2-user/git-graph/actions-runner/run-helper.cmd.template
+[2024-12-01 10:59:23Z INFO SelfUpdater] Download latest runner and unzip into runner root.
+[2024-12-01 10:59:23Z INFO Terminal] WRITE LINE: Waiting for current job finish running.
+[2024-12-01 10:59:23Z INFO SelfUpdater] DownloadUrl: https://github.com/actions/runner/releases/download/v2.321.0/actions-runner-linux-x64-2.321.0.tar.gz
+[2024-12-01 10:59:23Z INFO SelfUpdater] PackageDownloadTime: 2123ms
+[2024-12-01 10:59:23Z INFO SelfUpdater] Attempts: 1
+[2024-12-01 10:59:23Z INFO SelfUpdater] PackageSize: 113MB
+[2024-12-01 10:59:23Z INFO SelfUpdater] ValidateHashTime: 701ms
+[2024-12-01 10:59:23Z INFO SelfUpdater] PackageExtractTime: 3937ms
+[2024-12-01 10:59:23Z INFO SelfUpdater] CopyRunnerToRootTime: 7802ms
+[2024-12-01 10:59:23Z INFO SelfUpdater] All running job has exited.
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO SelfUpdater] Delete old version runner backup.
+[2024-12-01 10:59:23Z INFO Terminal] WRITE LINE: Generate and execute update script.
+[2024-12-01 10:59:23Z INFO SelfUpdater] DeleteRunnerBackupTime: 5ms
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Diag': '/home/ec2-user/git-graph/actions-runner/_diag'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Bin': '/home/ec2-user/git-graph/actions-runner/bin'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Root': '/home/ec2-user/git-graph/actions-runner'
+[2024-12-01 10:59:23Z INFO HostContext] Well known directory 'Work': '/home/ec2-user/git-graph/actions-runner/_work'
+[2024-12-01 10:59:23Z INFO SelfUpdater] Generate update script into: /home/ec2-user/git-graph/actions-runner/_work/_update.sh
+[2024-12-01 10:59:23Z INFO SelfUpdater] Which2: 'bash'
+[2024-12-01 10:59:23Z INFO SelfUpdater] Location: '/usr/bin/bash'
+[2024-12-01 10:59:23Z INFO SelfUpdater] Update script start running
+[2024-12-01 10:59:23Z INFO Terminal] WRITE LINE: Runner will exit shortly for update, should be back online within 10 seconds.
+[2024-12-01 10:59:23Z INFO SelfUpdater] TotalUpdateTime: 15729ms
+[2024-12-01 10:59:23Z INFO Terminal] WRITE LINE: Runner update process finished.
+[2024-12-01 10:59:24Z INFO Runner] Auto update task finished at backend, an runner update is ready to apply exit the current runner instance.
+[2024-12-01 10:59:24Z INFO Runner] Stop message queue looping.
+[2024-12-01 10:59:24Z WARN GitHubActionsService] GET request to https://broker.actions.githubusercontent.com/message?sessionId=55dd26bc-06e4-4032-a41a-292ca0df42df&status=Online&runnerVersion=2.320.0&os=Linux&architecture=X64&disableUpdate=false has been cancelled.
+[2024-12-01 10:59:24Z ERR  BrokerServer] Catch exception during request
+[2024-12-01 10:59:24Z ERR  BrokerServer] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpRequestMessage message, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Uri requestUri, HttpContent content, IEnumerable`1 queryParameters, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at GitHub.Actions.RunService.WebApi.BrokerHttpClient.GetRunnerMessageAsync(Nullable`1 sessionId, String runnerVersion, Nullable`1 status, String os, String architecture, Nullable`1 disableUpdate, CancellationToken cancellationToken)
+   at GitHub.Runner.Common.BrokerServer.<>c__DisplayClass7_0.<<GetRunnerMessageAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at GitHub.Runner.Common.RunnerService.RetryRequest[T](Func`1 func, CancellationToken cancellationToken, Int32 maxRetryAttemptsCount, Func`2 shouldRetry)
+[2024-12-01 10:59:24Z ERR  BrokerServer] #####################################################
+[2024-12-01 10:59:24Z ERR  BrokerServer] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2024-12-01 10:59:24Z ERR  BrokerServer] #####################################################
+[2024-12-01 10:59:24Z ERR  BrokerServer] System.Net.Sockets.SocketException (125): Operation canceled
+[2024-12-01 10:59:24Z WARN BrokerServer] Back off 10.214 seconds before next retry. 4 attempt left.
+[2024-12-01 10:59:24Z INFO MessageListener] Get next message has been cancelled.
+[2024-12-01 10:59:24Z INFO Runner] Ignore any exception after cancel message loop. System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at GitHub.Runner.Common.RunnerService.RetryRequest[T](Func`1 func, CancellationToken cancellationToken, Int32 maxRetryAttemptsCount, Func`2 shouldRetry)
+   at GitHub.Runner.Listener.MessageListener.GetNextMessageAsync(CancellationToken token)
+   at GitHub.Runner.Listener.Runner.RunAsync(RunnerSettings settings, Boolean runOnce)
+[2024-12-01 10:59:24Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2024-12-01 10:59:24Z INFO Runner] Deleting Runner Session...
+[2024-12-01 10:59:24Z INFO Listener] Runner execution has finished with return code 3

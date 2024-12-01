@@ -1,0 +1,18 @@
+{
+  "name": "actions-runner",
+  "version": "1.0.0",
+  "main": "app.js",
+  "bin": {
+    "actions-runner": "bin/RunnerService.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pm2": "^5.4.3"
+  }
+}
